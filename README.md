@@ -31,17 +31,17 @@ Tricentis Tosca
 * Since 2011 - 6+ years - Testing Expert at [Sogeti Deutschland GmbH](www.sogeti.de)
 * 2004 - 2011 7 years - Senior Consultant IT at [msg systems ag](www.msg-systems.com)
 * 2001 - 2003 3 years - Consultant at [Spectrum AG](www.spectrum-ag.de)
-* 1989 - 2000 11 years - Senior System Support Programmer at [amadeus data processing gmbh](www.amadeus.com)
+* 1989 - 2000 11+ years - Senior System Support Programmer at [amadeus data processing gmbh](www.amadeus.com)
 
 # Education
 * 2000 [University of Pittsburgh](www.pitt.edu), [Katz Graduate School of Business](www.katz.pitt.edu), joint MBA degree program 
 * 1999 - 2000 [Universität Augsburg](www.mba-augsburg.de), Master of Business Administration 
 * 1983 - 1989 [Technische Universität München](www.tum.de), Master of Computer Science (Dipl. Inform. Univ.) 
 
-Certified Professional Consultant (UFT), 
+Certified Professional Consultant (HP QTP), 
 ISTQB Certified Tester/Test Manager, 
 TMap Next Foundation Level, 
-iSQI Certified Professional for Requirements Engineering
-Tricentis TOSCA Certified User
-UEFA Trainer A-License (DFB - German Soccer Association)
+iSQI Certified Professional for Requirements Engineering, 
+Tricentis TOSCA Certified User, 
+UEFA Trainer A-License (DFB - German Soccer Association), 
 iSQI Quality Assurance Management Professional QAMP
