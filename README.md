@@ -38,10 +38,10 @@ Tricentis Tosca
 * 1999 - 2000 [Universität Augsburg](http://www.mba-augsburg.de), Master of Business Administration 
 * 1983 - 1989 [Technische Universität München](https://www.tum.de/), Master of Computer Science (Dipl. Inform. Univ.) 
 
-Certified Professional Consultant (HP QTP), 
+Certified Professional Consultant QuickTest Professional, 
 ISTQB Certified Tester/Test Manager, 
 TMap Next Foundation Level, 
 iSQI Certified Professional for Requirements Engineering, 
 Tricentis TOSCA Certified User, 
-UEFA Trainer A-License (DFB - German Soccer Association), 
+UEFA Trainer A-License German Soccer Association (DFB), 
 iSQI Quality Assurance Management Professional QAMP
